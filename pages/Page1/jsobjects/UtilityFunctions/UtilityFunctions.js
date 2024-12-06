@@ -49,9 +49,6 @@ export default {
 		if(candidate_zip.text == "" || candidate_zip.text == undefined){
 			missing_fields.push("Zip Code")
 		}
-		if(candidate_dob.selectedDate == "" || candidate_dob.selectedDate == undefined){
-			missing_fields.push("Date of Birth")
-		}
 
 		if(pay_schedule.selectedOptionLabel == "" || pay_schedule.selectedOptionLabel == undefined){
 			missing_fields.push("Pay Schedule")
