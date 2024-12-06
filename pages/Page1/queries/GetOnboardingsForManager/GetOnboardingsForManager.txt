@@ -1,0 +1,10 @@
+
+{
+    "TableName": "aca_onboarding_requests",
+    "KeyConditionExpression": "manager_email = :val",
+    "ExpressionAttributeValues": {
+        ":val": {
+            "S": "{{accessTokenParse.parseAccessToken.data.sub}}"
+        }
+    }
+}

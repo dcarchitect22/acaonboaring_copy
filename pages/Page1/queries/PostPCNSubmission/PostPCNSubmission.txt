@@ -1,0 +1,19 @@
+{
+	"emp_name": {{employee_name.text}},
+	"hr_email":{{distribution_list.text}},
+	"submitted_by": "{{accessTokenParse.parseAccessToken.data.sub}}",
+	"location": "{{emp_location.selectedOptionLabel}}",
+	"position": "{{emp_position.selectedOptionLabel}}",
+	"department": "{{emp_department.selectedOptionLabel}}",
+	"pay_schedule": "{{pay_schedule.selectedOptionLabel}}",
+	"pay_rate": "{{pay_rate.text}}",
+	"candidate_email":"{{candidate_email.text}}",
+	"timestamp": "{{timestamp.text}}",
+	"address_line_1":"{{candidate_address_line_one.text}}",
+	"address_line_2":"{{candidate_address_line_two.text}}",
+	"candidate_city":"{{candidate_city.text}}",
+	"candidate_state":"{{candidate_state.text}}",
+	"candidate_zip":"{{candidate_zip.text}}",
+	"candidate_phone":{{candidate_phone.text}},
+	"commments": {{comments.text}}
+}

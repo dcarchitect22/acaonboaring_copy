@@ -1,0 +1,20 @@
+{
+	"TableName": "aca_onboarding_requests",
+	"Item": {
+		"manager_email" : {
+			"S" : "{{accessTokenParse.parseAccessToken.data.sub}}"
+		},
+		"timestamp": {
+			"N" : "{{timestamp.text}}"
+		},
+			"employee": {
+				"S" : "{{employee_name.text}}"
+			},
+			"location": {
+				"S" : "{{emp_location.selectedOptionLabel}}"
+			},
+			"status":{
+				"S": "submitted"
+			}	
+		}
+	}

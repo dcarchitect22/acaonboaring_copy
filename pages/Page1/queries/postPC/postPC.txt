@@ -1,0 +1,5 @@
+{
+"manager_email":"{{}}",
+"timestamp":1715957365676,
+"onboarding_status":"In Progress"
+}

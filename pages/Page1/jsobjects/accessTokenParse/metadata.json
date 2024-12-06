@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "accessTokenParse",
+    "pageId": "Page1",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "Page1_accessTokenParse",
+  "deleted": false,
+  "gitSyncId": "664b99dd2aec597d3ac92b8a_19c5f009-c267-455d-b9c5-b849e2b804e8"
+}
