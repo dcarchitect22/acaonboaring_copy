@@ -1,15 +1,11 @@
 {
+  "gitSyncId": "664b99dd2aec597d3ac92b8a_bf4d27df-fbc2-4c01-a8c9-9ccd5d789f06",
+  "id": "Page1_DateTimeForTimeStamp",
   "unpublishedCollection": {
     "name": "DateTimeForTimeStamp",
     "pageId": "Page1",
     "pluginId": "js-plugin",
     "pluginType": "JS",
-    "actions": [],
-    "archivedActions": [],
-    "variables": [],
-    "userPermissions": []
-  },
-  "id": "Page1_DateTimeForTimeStamp",
-  "deleted": false,
-  "gitSyncId": "664b99dd2aec597d3ac92b8a_bf4d27df-fbc2-4c01-a8c9-9ccd5d789f06"
+    "variables": []
+  }
 }

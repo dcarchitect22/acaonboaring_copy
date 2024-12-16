@@ -1,15 +1,11 @@
 {
+  "gitSyncId": "664b99dd2aec597d3ac92b8a_0b5f19b6-ef7f-4bd4-b1a1-71154b2a9006",
+  "id": "Page1_UtilityFunctions",
   "unpublishedCollection": {
     "name": "UtilityFunctions",
     "pageId": "Page1",
     "pluginId": "js-plugin",
     "pluginType": "JS",
-    "actions": [],
-    "archivedActions": [],
-    "variables": [],
-    "userPermissions": []
-  },
-  "id": "Page1_UtilityFunctions",
-  "deleted": false,
-  "gitSyncId": "664b99dd2aec597d3ac92b8a_0b5f19b6-ef7f-4bd4-b1a1-71154b2a9006"
+    "variables": []
+  }
 }
